@@ -1,0 +1,41 @@
+h1 {
+    color: #FBA642;
+}
+.top_menu{
+    margin-top: 20px;
+    background-color: #8F472C;
+    border: 3px solid #8F472C;
+    box-shadow: 0 0 10px  #8F472C;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.user {
+    color: #8F472C;
+    font-family: 'Arvo', serif;
+    text-align: right;
+    margin-top: 0;
+}
+
+.top_menu ul{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+
+.top_menu ul li{
+    display: inline-block;
+    width: 130px;
+}
+
+.top_menu ul li:hover{
+    background-color: #A7D251;
+}
+.top_menu ul li a{
+    color: #EDE3C9;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 0;
+    display: block;
+}

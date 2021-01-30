@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+    width: 1200px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    padding-top: 0px;
+}
+.formData{
+    width: 40%;
+    border: 3px solid #8F472C;
+    box-shadow: 0 0 10px #8F472C;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    color: #4895BB;
+    background-color: #EDE3C9;
+    border-radius: 10px;
+    background-color:#FBA642;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Arvo', serif;
+    color: #8F472C;
+}

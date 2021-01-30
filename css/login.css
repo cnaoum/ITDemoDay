@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+    width: 1200px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    padding-top: 0px;
+}
+form{
+    width: 50%;
+    border: 3px solid #8F472C;
+    box-shadow: 0 0 10px #8F472C;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    color: red;
+    background-color: #EDE3C9;
+    border-radius: 10px;
+    text-align: center;
+
+}
+label{
+    width: 170px;
+    display: inline-block;
+    font-size: 20px;
+    color: #4895BB;
+}
+.textInput{
+    font-size: 16px;
+    font-family: 'Arvo', serif;
+    color: #8F472C;
+    padding: 5px 10px;
+    width: 55%;
+    height: 30px;
+    margin-bottom: 10px;  
+}
+.btn{
+    width: 100%;
+    font-size: 22px;
+    background-color: #8F472C;
+    color:#4895BB;
+    font-family: 'Arvo', serif;
+    border: 0px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 8px;
+}

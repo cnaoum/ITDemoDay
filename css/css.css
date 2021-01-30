@@ -1,0 +1,85 @@
+body{
+    background-color: white;
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+    width: 1200px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    padding-top: 0px;
+}
+h2{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+#errors{
+    color: #4895BB;
+    font-family: 'Arvo', serif;
+    font-size: 26px;
+    line-height: 34px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    border-radius: 10px;
+
+}
+form, .formData{
+    width: 41%;
+    border: 3px solid #8F472C;
+    box-shadow: 0 0 10px #8F472C;
+    padding: 30px;
+    margin: 50px 20px;
+    color: #8F472C;
+    background-color: #A7D251;
+    border-radius: 10px;
+    float: left;
+}
+.formData{
+    background-color: #EDE3C9;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Arvo', serif;
+    color: #8F472C;
+}
+label{
+    width: 170px;
+    display: inline-block;
+    font-size: 18px;
+    color: #8F472C;
+}
+.textInput{
+    font-size: 16px;
+    font-family: 'Arvo', serif;
+    color: #8F472C;
+    padding: 5px 10px;
+    width: 55%;
+    height: 30px;
+    margin-bottom: 10px;  
+}
+#items .textInput{
+    width: 27%;
+}
+#items label{
+        width: 300px;
+
+
+}
+select.textInput{
+    width: 60%;
+    margin-top: 10px;
+    height: 40px;
+    color:  #8F472C;
+}
+.btn{
+    width: 100%;
+    font-size: 22px;
+    background-color: #8F472C;
+    color: #4895BB;
+    font-family: 'Arvo', serif;
+    border: 0px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 8px;
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+    width: 1200px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    padding-top: 0px;
+}
+.registrationsTable{
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px;
+}
+.registrationsTable, .registrationsTable td, .registrationsTable th{
+    border: 2px solid #8F472C;
+}
+.registrationsTable td, .registrationsTable th{
+    padding: 5px 10px;
+}
+.registrationsTable td{
+    color: #8F472C;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.registrationsTable th{
+    color: #4895BB;
+    font-weight: bold;
+    background-color: #EDE3C9;
+
+}
